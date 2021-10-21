@@ -1,0 +1,18 @@
+table {
+  width: 700px;
+  height: 360px;
+  background: white;
+}
+
+table .header {
+  background: greenyellow;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  border-bottom: 4px solid black;
+  width: 200px;
+  height: 40px;
+}
+
+.tablerow td {
+  background: rgba(9, 255, 0, 0.808);
+}
